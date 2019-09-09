@@ -1,2 +1,2 @@
 # right-rotation-array-JavaScript
-Right Rotation Arrayin JavaScript
+Right Rotation Array in JavaScript
